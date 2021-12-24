@@ -5,7 +5,7 @@
 
 - 🌱 Estudiando **React**
 - 📝 Reguarlemente escribo en [roylans.dev](https://roylans.dev)
-- 💬 Preguntame sobre **vue, quasar, javascript, html, css, django, python**
+- 💬 Preguntame sobre **vue, quasar, javascript, html, css, django, python, git, linux**
 
 <h2>Proyectos</h2>
 
