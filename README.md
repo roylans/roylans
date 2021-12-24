@@ -20,4 +20,4 @@
 <h2>Contacto</h2>
 
 - [Twitter](https://twitter.com/roylans79)
-- 
+- [Linkedin](https://www.linkedin.com/in/roylans/)
