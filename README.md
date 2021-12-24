@@ -4,13 +4,13 @@
 - ✨ Actualmente trabajando en **CodigoJS España**
 
 - 🌱 Estudiando **React**
-- 📝 Reguarlemente escribo en [https://roylans.dev](roylans.dev)
+- 📝 Reguarlemente escribo en [roylans.dev](https://roylans.dev)
 - 💬 Preguntame sobre **vue, quasar, django, python**
 
 <p align="left"> <a href="https://twitter.com/roylans79" target="blank"><img src="https://img.shields.io/twitter/follow/roylans79?logo=twitter&style=for-the-badge" alt="roylans79" /></a> </p>
 
 <h2>Proyectos</h2>
--[RemotoList](https://remotolist.com) Ofertas de trabajo remoto para España y Latinoamérica. (Django, VueJS, Bulma)
+- [RemotoList](https://remotolist.com) Ofertas de trabajo remoto para España y Latinoamérica. (Django, VueJS, Bulma)
 
 [https://www.syncbed.com](www.syncbed.com): App movil para sincroniar calendarios de reservas. (Django, Quasar)
 [https://www.bandbcuba.com](www.bandbcuba.com): Portal de reserva de alojamientos turísticos en Cuba. (Django, JQuery, Bootstrap)
