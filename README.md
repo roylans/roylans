@@ -15,9 +15,11 @@
 
 - https://www.bandbcuba.com: Portal de reserva de alojamientos turísticos en Cuba. (Django, JQuery, Bootstrap)
 
-- https://www.housettel.com: El mayor escaparate de viviendas nuevas en venta de España (Django, VueJS, Bootstrap)
+- https://www.housettel.com: El mayor escaparate de viviendas nuevas en venta de España. (Django, VueJS, Bootstrap)
 
-- https://react-iptrack.vercel.app/: Rastreador de direcciones IP.
+- https://react-iptrack.vercel.app/: Rastreador de direcciones IP. (React)
+
+- https://marvel-roylans.vercel.app/: Marvel characters. (VueJS 3)
 
 <h2>Contacto</h2>
 
