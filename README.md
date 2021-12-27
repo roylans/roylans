@@ -21,7 +21,7 @@
 
 - https://react-iptrack.vercel.app/: Rastreador de direcciones IP. (React)
 
-- https://marvel-roylans.vercel.app/: Marvel characters. (VueJS 3)
+- https://marvel-roylans.vercel.app/: Marvel characters. (VueJS 3, Bulma)
 
 <h2>Contacto</h2>
 
