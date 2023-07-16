@@ -1,7 +1,7 @@
 <h1>Hola 👋, Soy Roylan Suárez</h1>
 <h2>Desarrollador Web Frontend con más de 10 años de experiencia</h2>
 
-- ✨ Actualmente trabajando en **[Aflore]((https://aflore.co)**
+- ✨ Actualmente trabajando en **[Aflore](https://aflore.co)**
 - 🌱 Estudiando **Ingles**
 - 📝 Reguarlemente escribo en [roylans.dev](https://roylans.dev)
 - 💬 Preguntame sobre **vue, quasar, javascript, html, css, django, python, git, linux**
