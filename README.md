@@ -1,10 +1,10 @@
 <h1>Hola 👋, Soy Roylan Suárez</h1>
-<h2>Desarrollador Web Frontend con más de 10 años de experiencia</h2>
+<h2>Desarrollador FullStack con más de 10 años de experiencia</h2>
 
 - ✨ Actualmente trabajando en **[Aflore](https://aflore.co)**
 - 🌱 Estudiando **Ingles**
 - 📝 Reguarlemente escribo en [roylans.dev](https://roylans.dev)
-- 💬 Preguntame sobre **vue, quasar, javascript, html, css, django, python, git, linux**
+- 💬 Preguntame sobre **pythn, django, flask, fastapi, vue, quasar, javascript, html, css, git, linux...**
 
 <h2>Proyectos</h2>
 
