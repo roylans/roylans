@@ -4,17 +4,19 @@
 - ✨ Actualmente trabajando en **[Aflore](https://aflore.co)**
 - 🌱 Estudiando **Ingles**
 - 📝 Reguarlemente escribo en [roylans.dev](https://roylans.dev)
-- 💬 Preguntame sobre **pythn, django, flask, fastapi, vue, quasar, javascript, html, css, git, linux...**
+- 💬 Preguntame sobre **Python, Django, VueJS, Quasar, Postgres, Mysql, AWS, Digital Ocean, Linus y mucho más...**
 
 <h2>Proyectos</h2>
 
-- https://remotolist.com: Ofertas de trabajo remoto para España y Latinoamérica. (Django, VueJS, Bulma)
+- https://remotolist.com: Ofertas de trabajo remoto para España y Latinoamérica. (Django, VueJS, Bulma, Quasar)
+- [App RemotoList](https://play.google.com/store/apps/details?id=com.remotolist.app&hl=es&gl=US) (Vue, TypeScript, Quasar, Capaitor)
 
-- https://www.syncbed.com: App movil para sincroniar calendarios de reservas. (Django, Quasar)
+- https://www.syncbed.com: App movil para sincroniar calendarios de reservas. (Django, VueJS, Quasar)
+- [App SyncBed](https://play.google.com/store/apps/details?id=com.syncbed.www&hl=es_419&gl=US) (VueJS, Quasar, JavaScript)
 
 - https://www.bandbcuba.com: Portal de reserva de alojamientos turísticos en Cuba. (Django, JQuery, Bootstrap)
 
-- https://www.housettel.com: El mayor escaparate de viviendas nuevas en venta de España. (Django, VueJS, Bootstrap)
+- https://www.housettel.com: El mayor escaparate de viviendas nuevas en venta de España. (Django, VueJS, Quasar, Bootstrap)
 
 ### Proyectos personales
 
