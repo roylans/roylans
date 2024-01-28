@@ -11,7 +11,7 @@
 - [RemotoList](https://remotolist.com): Ofertas de trabajo remoto para España y Latinoamérica. (Django, VueJS, Bulma, Quasar)
 - [App RemotoList](https://play.google.com/store/apps/details?id=com.remotolist.app&hl=es&gl=US): (Vue, TypeScript, Quasar, Capacitor)
 
-- [SyncBed](https://www.syncbed.com): App movil para sincroniar calendarios de reservas. (Django, VueJS, Quasar)
+- [SyncBed](https://www.syncbed.com): PWA movil para sincronizar calendarios de reservas. (Django, VueJS, Quasar)
 - [App SyncBed](https://play.google.com/store/apps/details?id=com.syncbed.www&hl=es_419&gl=US): (VueJS, Quasar, JavaScript)
 
 - [BandBCuba](https://www.bandbcuba.com): Portal de reserva de alojamientos turísticos en Cuba. (Django, JQuery, Bootstrap)
